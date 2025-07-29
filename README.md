@@ -8,7 +8,6 @@ This project demonstrates how to build and deploy a sentiment analysis model for
 * **Simple RNN Model**: Utilizes a basic RNN architecture for sequence processing.
 * **Word Embeddings**: Employs an Embedding layer to represent words as dense vectors.
 * **Interactive Web App**: A Streamlit application allows users to input their own reviews and get instant sentiment predictions.
-* **Jupyter Notebooks**: Includes notebooks for both training the model from scratch and for making predictions.
 
 ## Technologies Used
 
